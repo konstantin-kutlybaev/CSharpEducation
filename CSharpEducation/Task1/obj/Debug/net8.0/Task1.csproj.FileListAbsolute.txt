@@ -1,0 +1,14 @@
+B:\Git\CSharpEducation\Task1\bin\Debug\net8.0\Task1.exe
+B:\Git\CSharpEducation\Task1\bin\Debug\net8.0\Task1.deps.json
+B:\Git\CSharpEducation\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+B:\Git\CSharpEducation\Task1\bin\Debug\net8.0\Task1.dll
+B:\Git\CSharpEducation\Task1\bin\Debug\net8.0\Task1.pdb
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.dll
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\refint\Task1.dll
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.pdb
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+B:\Git\CSharpEducation\Task1\obj\Debug\net8.0\ref\Task1.dll
