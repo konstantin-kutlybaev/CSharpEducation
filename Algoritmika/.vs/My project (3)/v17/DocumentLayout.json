@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79124\\Desktop\\\u0418\u0433\u0440\u044B\\My project (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\79124\\desktop\\\u0438\u0433\u0440\u044B\\my project (3)\\assets\\destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\79124\\desktop\\\u0438\u0433\u0440\u044B\\my project (3)\\assets\\crickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\crickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Destroy.cs",
+              "DocumentMoniker": "C:\\Users\\79124\\Desktop\\\u0418\u0433\u0440\u044B\\My project (3)\\Assets\\Destroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Destroy.cs",
+              "ToolTip": "C:\\Users\\79124\\Desktop\\\u0418\u0433\u0440\u044B\\My project (3)\\Assets\\Destroy.cs",
+              "RelativeToolTip": "Assets\\Destroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:25:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crickets.cs",
+              "DocumentMoniker": "C:\\Users\\79124\\Desktop\\\u0418\u0433\u0440\u044B\\My project (3)\\Assets\\Crickets.cs",
+              "RelativeDocumentMoniker": "Assets\\Crickets.cs",
+              "ToolTip": "C:\\Users\\79124\\Desktop\\\u0418\u0433\u0440\u044B\\My project (3)\\Assets\\Crickets.cs",
+              "RelativeToolTip": "Assets\\Crickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:16:47.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
